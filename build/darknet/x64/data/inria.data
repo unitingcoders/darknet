@@ -1,0 +1,6 @@
+classes= 1
+train  = data/inria/train.txt
+valid  = data/inria/test.txt
+names = data/inria.names
+backup = backup/
+#eval=inria
