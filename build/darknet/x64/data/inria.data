@@ -1,6 +1,6 @@
 classes= 1
-train  = data/train_inria.txt
+train  = build/darknet/x64/data/train_inria.txt
 #valid  = data/test.txt
-names = data/inria.names
+names = build/darknet/x64/data/inria.names
 backup = backup/
 #eval=inria
