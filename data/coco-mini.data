@@ -1,0 +1,6 @@
+classes= 1
+train  = data/train_cococ-mini.txt
+valid  = data/test_coco-mini.txt
+names = data/coco-mini.names
+backup = backup/
+#eval=inria
