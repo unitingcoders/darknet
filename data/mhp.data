@@ -1,0 +1,6 @@
+classes= 58
+train  = data/train_mhp.txt
+valid  = data/test_mhp.txt
+names = data/inria.names
+backup = backup/
+#eval=inria
